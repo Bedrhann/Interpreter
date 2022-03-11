@@ -1,0 +1,4 @@
+1. Baþla
+2. GÝR a , b
+3. EÐER a > b Ýse YAZ a DEÐÝLSE EÐER a < b Ýse YAZ b DEÐÝLSE YAZ ' Eþit '
+4. Bitir
